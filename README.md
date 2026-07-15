@@ -2,7 +2,7 @@
 
 ## About
 
-**Frontend capstone** for the FlyRank AI Engineering internship track. The app is a single-page experience for exploring and ranking flight options — helping users compare routes, prices, and carriers in a clear, accessible interface.
+**Frontend capstone** for the FlyRank AI Engineering internship track. The project focuses on building a one page web and to learn and proceed productively.
 
 This repository focuses on building that experience with modern React patterns, disciplined Git workflows, and AI-assisted development in Cursor.
 
