@@ -1,8 +1,17 @@
 # FlyRank Frontend Capstone
 
-Frontend capstone project for the FlyRank AI Engineering internship track.
+## About
 
-A single-page application built with AI-assisted development workflows, emphasizing clean code, accessibility, and disciplined Git practices.
+**Frontend capstone** for the FlyRank AI Engineering internship track. The app is a single-page experience for exploring and ranking flight options — helping users compare routes, prices, and carriers in a clear, accessible interface.
+
+This repository focuses on building that experience with modern React patterns, disciplined Git workflows, and AI-assisted development in Cursor.
+
+**Capstone goals:**
+
+- Ship a production-quality Next.js frontend with semantic, accessible UI
+- Demonstrate clean component architecture and maintainable TypeScript
+- Practice Conventional Commits and thoughtful code review habits
+- Use Cursor and project rules to accelerate development without sacrificing quality
 
 ## Tech Stack
 
