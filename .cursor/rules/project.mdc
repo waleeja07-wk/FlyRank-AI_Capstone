@@ -1,0 +1,29 @@
+---
+description: Core project conventions for FlyRank capstone
+alwaysApply: true
+---
+
+# FlyRank Capstone — Development Rules
+
+## Tech Stack
+- Frontend: React / Next.js
+- Styling: Tailwind CSS
+- Language: TypeScript
+
+## Code Style & Conventions
+- Use clean, modular, functional components — no class components.
+- Prioritize semantic HTML and accessible UI design.
+- Keep components small and single-purpose.
+- Follow Conventional Commits for all repository updates.
+- Component files use PascalCase (e.g., `UserCard.tsx`).
+- Use hooks for state management.
+
+## Folder Structure
+- `app/` — routes, layouts, and route-local components (Next.js App Router)
+- `components/` — shared, reusable UI components
+- `lib/` — shared types, utilities, and hooks
+
+## Notes for AI Assistant
+- This project is early-stage — ask clarifying questions before assuming architecture or features.
+- Explain reasoning before making changes.
+- Prioritize maintainability over cleverness.
