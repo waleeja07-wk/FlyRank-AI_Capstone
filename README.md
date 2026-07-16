@@ -30,8 +30,8 @@ This repository focuses on building that experience with modern React patterns, 
 ### Installation
 
 ```bash
-git clone https://github.com/waleeja07-wk/FlyRank-AI_Capstone.git
-cd FlyRank-AI_Capstone
+git clone https://github.com/waleeja07-wk/Frontend_Capstone.git
+cd Frontend_Capstone
 npm install
 ```
 
